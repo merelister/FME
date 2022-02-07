@@ -1,204 +1,132 @@
-Key_letter,From_person,To_person,Type,Date,Corresp_poem,mention_person,content_note,
-letter_1,"Mackworth, Cecily","Palmer, Herbert","personal, business",1943-12-31,poem_42,,,
-letter_2,"Vansittart, Lord","Cunard, Nancy",business,1943-12-24,poem_75,,,
-letter_2,"Vansittart, Lord","Cunard, Nancy",business,1942-12-24,poem_76,,,
-letter_3,"Jackson, Ada","Cunard, Nancy",business,194*,poem_34,,,
-letter_4,"Douglas, Norman","Cunard, Nancy",business,1943-10-31,poem_80,,,
-letter_4,"Douglas, Norman","Cunard, Nancy",business,1943-10-31,poem_81,,,
-letter_5,"Lodge, M","Cunard, Nancy",business,1944-01-04,poem_63,,,
-letter_6,"Read, Herbert","Cunard, Nancy",business,1943-09-43,poem_56,,,
-letter_7,"Read, Herbert","Cunard, Nancy",business,1943-12-30,poem_56,,,
-letter_8,"Winter Were, Mary","Cunard, Nancy",business,1943-10-28,poem_79,"Palmer, Herbert",,
-letter_9,"Sackville-West, Vita","Cunard, Nancy",business,1943-11-15,poem_61,,,
-letter_10,"Gardiner, Patrick","Cunard, Nancy",business,1943-12-22,poem_24,,,
-letter_11,"Connolly, Cyril","Cunard, Nancy",business,[letter not surviving],poem_23,"Evans, D.","""This poem was send w 'Horizon' by the author and given me by Cyril Connolly.""",
-letter_12,"Manifold, John","Cunard, Nancy",business,1944-01-04,poem_43,,,
-letter_13,"Geering, Ken","Cunard, Nancy",business,1943-11-01,poem_26,,,
-letter_13,"Geering, Ken","Cunard, Nancy",business,1943-11-01,poem_60,,,
-letter_14,"Grant, V.C.","Cunard, Nancy",business,1943-10-12,poem_28,,,
-letter_15,"McEwen, J.H.F.","Cunard, Nancy",business,1944-01-01,poem_41,,,
-letter_16,"Gawsworth, John","Cunard, Nancy",business,1943-12-11,poem_25,,,
-letter_17,"Wollman, Maurice","Cunard, Nancy",business,194*,poem_25,,,
-letter_18,"Cawdor, Wilma","Cunard, Nancy",business,194*,poem_11,,,this borderline counts as a letter.
-letter_18,"Cawdor, Wilma","Cunard, Nancy",business,194*,poem_12,,,
-letter_19,"Read, Sylvia","Cunard, Nancy",business,1943-11-27,poem_57,"Palmer, Herbert",,
-letter_20,"Craven, Mollie Charteris","Cunard, Nancy",business,194*,poem_16,,,
-letter_21,"Ackland, Valentine","Cunard, Nancy",business,194*,poem_1,,,
-letter_21,"Ackland, Valentine","Cunard, Nancy",business,194*,contribution_1,,,
-letter_22,"Ackland, Valentine","Cunard, Nancy",personal,194*,poem_1,"Townsend Warner, Sylvia",,
-letter_23,"Ackland, Valentine","Cunard, Nancy",business,194*,poem_1,"Townsend Warner, Sylvia",,
-letter_24,"Ackland, Valentine","Cunard, Nancy",business,194*,poem_1,"Townsend Warner, Sylvia",,
-letter_25,"Cunard, Nancy","Ford, Hugh","personal, business",1963-10-19,poem_40,"MacDiarmid, Hugh","Milne, Ewart",
-letter_25,"Cunard, Nancy","Ford, Hugh","personal, business",1963-10-19,poem_46,"MacDiarmid, Hugh","Milne, Ewart",
-letter_25,"Cunard, Nancy","Ford, Hugh","personal, business",1963-10-19,poem_47,"MacDiarmid, Hugh","Milne, Ewart",
-letter_26,"Cunard, Nancy",Gawsworth,"personal, business",1962-06-15,poem_25,,,
-letter_27,"Cunard, Nancy","Leslie, Shane",business,1943-11-29,,,,"letter_27 and letter_28 refer to the same piece of paper, sent back and forth"
-letter_28,"Leslie, Shane","Cunard, Nancy",business,1944-01-01,,,,
-letter_29,"Palmer, Herbert","Cunard, Nancy","personal, business",194*,poem_51; poem_79,"Winter Were, Mary",,
-letter_30,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-05-14,poem_51,"Bull, A.J.",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_69,"Thompson, Edward",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_17,"Cunard, Nancy",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_46,"Milne, Ewart",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_47,"Milne, Ewart",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_69,"Blakeston, Oswell",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_73,"Treece, Henry",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_74,"Treece, Henry",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_48,"Moore, Nicholas",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_49,"Moore, Nicholas",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_53,"Potts, Paul",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_45,"Meyerstein, E.H.W.",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_75,"Vansittart, Lord",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_76,"Vansittart, Lord",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_65,"Squire, J.C.",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_66,"Squire, J.C.",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_34,"Jackson, Ada",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_10,"Bull, A.J.",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_8,"Bowen, Arnold",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_52,"Plomer, William",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_50,"Moult, Thomas",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_35,"Lewis, Eiluned",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_41,"McEwen, J.H.F.",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_80,"Hogg, Neil",,
-letter_31,"Palmer, Herbert","Cunard, Nancy","personal, business",1944-10-24,poem_81,"Hogg, Neil",,
-letter_32,"Plomer, William","Cunard, Nancy",business,1943-12-26,poem_52,,,
-letter_33,"Plomer, William","Cunard, Nancy",business,1943-10-01,poem_52,,refers to publication in the listener and a forthcoming publication of autobiographical notes,
-letter_34,"Plomer, William","Cunard, Nancy","personal, business",1944-04-26,,,refers to French translation of all poems,
-letter_35,"Potts, Paul","Cunard, Nancy",business,194*,poem_36,"Lindsay, Jack",,
-letter_36,"Potts, Paul","Cunard, Nancy",business,194*,,"Hughes, Langston",refers to entire publication,
-letter_37,"Pudney, John","Cunard, Nancy",business,1944-01-06,,,"encloses poem that was not used, not included in collection",
-letter_38,"Ramsay, T.W.","Cunard, Nancy",business,1943-11-04,poem_54,,,
-letter_39,"Roberts, Michael","Cunard, Nancy","personal, business",1943-11-01,,,no poem to contribute,
-letter_40,"Ross, Alan","Cunard, Nancy",business,1943-11-07,,,refers to two poems not included in anthology,
-letter_41,"Rowe, Joyce","Cunard, Nancy",business,1944-01-05,poem_60,,,
-letter_42,"Baring, Maurice","Cunard, Nancy",business,1943-10-18,,,no poem to contribute,
-letter_43,"Beeching, Jack","Cunard, Nancy",business,1943-12-31,poem_5,"Bull, A.J.",,
-letter_44,"Blakeston, Oswell","Cunard, Nancy",business,194*-11-16,poem_6,,discussion of translation; inclusion of poem transcription with translation,
-letter_45,"Blakeston, Oswell","Cunard, Nancy",business,1943-10-31,poem_6,,,
-letter_46,Bodley House Literary Agency,"Cunard, Nancy",business,1944-09-26,,,entire publication,
-letter_47,Bodley House Literary Agency,"Cunard, Nancy",business,1944-09-29,,,entire publication,
-letter_48,Bodley House Literary Agency,"Cunard, Nancy",business,1944-05-02,,,entire publication,
-letter_49,"Bottomley, Gordon","Cunard, Nancy","personal, business",1943-12-10,,,no poem to contribute,
-letter_50,"Bourne, Harold J","Cunard, Nancy",business,1943-11-11,poem_7,"Bourne, David; Rhys, Keidrich",poem enclosed,
-letter_51,"Bowen, Arnold","Cunard, Nancy",business,1943-10-28,poem_8,"Rhys, Keidrich; Palmer, Herbert; Douglas, Alfred; Naidu, Sarojini; St Vincent Millay, Edna; Powys de la Mare, J C; Thompson, Edward; Lynd, Sylvia; Lynd, Robert; Hopkins, Kenneth",poem enclosed,
-letter_52,"Brown, F.J.","Cunard, Nancy","personal, business",194*,poem_9,,,
-letter_53,"Bull, A.J.","Cunard, Nancy",business,1943-11-14,poem_10,,,
-letter_54,"Alington, C.A.","Cunard, Nancy",business,1943-11-23,poem_2,,,
-letter_55,"Alington, C.A.","Cunard, Nancy",business,1944-04-22,poem_2,,refers to translation,
-letter_56,"Alington, C.A.","Cunard, Nancy",business,1944-04-05,poem_2,,refers to translation,
-letter_57,"Arundel, Honor","Cunard, Nancy",business,1943-10-17,poem_3,,,
-letter_57,"Arundel, Honor","Cunard, Nancy",business,1943-10-17,poem_4,,,
-letter_58,"Atthill, Robin","Cunard, Nancy",business,1943-11-11,poem_82,,,
-letter_59,"Cawdor, Wilma","Cunard, Nancy",business,1943-11-22,poem_11,,"listed as ""Before Daybreak"" in publication, ""Before Cockcrow"" in letter",
-letter_59,"Cawdor, Wilma","Cunard, Nancy",business,1943-11-22,poem_12,,,
-letter_59,"Cawdor, Wilma","Cunard, Nancy",business,1943-11-22,,,"unpublished poem ""La Mère"" previously published in Punch",
-letter_60,"Cecil, Robert","Cunard, Nancy",business,1943-10-09,poem_13,,,
-letter_61,"Church, Richard","Cunard, Nancy",business,1943-10-09,poem_14,,,
-letter_61,"Church, Richard","Cunard, Nancy",business,1943-10-09,,,unpublished poem,
-letter_61,"Church, Richard","Cunard, Nancy",business,1943-10-09,poem_35,"Lewis, Eiluned",,
-letter_62,"Church, Richard","Cunard, Nancy","personal, business",1943-10-13,poem_35,"Lewis, Eiluned",,
-letter_63,"Church, Richard","Cunard, Nancy","personal, business",1943-11-13,poem_35,,RE poem in translation.,
-letter_64,"Churchill, Stella","Cunard, Nancy","personal, business",1944-10-05,,,entire volume,
-letter_65,"Churchill, Winston","Cunard, Nancy",business,1944-11-23,,,entire volume,
-letter_66,"Comfort, Alex","Cunard, Nancy","personal, business",194*,poem_15,,,
-letter_67,"Comfort, Alex","Cunard, Nancy","personal, business",194*-10-27,poem_15,,inquires about translation,
-letter_67,"Comfort, Alex","Cunard, Nancy","personal, business",194*-10-27,,,entire volume,
-letter_68,"Comfort, Alex","Cunard, Nancy",business,194*,poem_15,,,
-letter_68,"Comfort, Alex","Cunard, Nancy",business,1943-09-22,,,entire volume—inquired about other anthologized poems,
-letter_69,"Comfort, Alex","Cunard, Nancy",business,1943-09-27,poem_15,,also references publication in Routledge that does not appear in final publication,
-letter_70,"Comfort, Alex","Cunard, Nancy",business,1945-12-29,poem_15,,refers to French translation,
-letter_71,"Craven, Mollie Charteris","Cunard, Nancy",business,1943-12-02,poem_16,,,
-letter_71,"Craven, Mollie Charteris","Cunard, Nancy",business,1943-12-02,,,refers to other poem not anthologized,
-letter_72,"Davies, Dudley G","Cunard, Nancy",business,1943-11-08,poem_19,,,
-letter_73,"Davie, Ian","Cunard, Nancy",business,1943-11-08,poem_18,,,
-letter_74,"Day-Lewis, Cecil","Cunard, Nancy",business,1943-10-13,,,refers to poem not anthologized,
-letter_74,"Day-Lewis, Cecil","Cunard, Nancy",business,1943-10-13,,"Warren, Rex",,
-letter_75,"Douglas, Alfred","Cunard, Nancy",business,1943-11-04,,,no poems to contribute,
-letter_76,"Dunsany, Edward","Cunard, Nancy",business,1943-12-06,poem_20,,,
-letter_76,"Dunsany, Edward","Cunard, Nancy",business,1943-12-06,poem_21,,,
-letter_76,"Dunsany, Edward","Cunard, Nancy",business,1943-12-06,poem_22,,,
-letter_77,"Dunsany, Edward","Cunard, Nancy",business,1943-12-16,,,on the topic of collection but refers to no specific poems,
-letter_78,"Dunsany, Edward","Cunard, Nancy",business,1944-01-05,,,on the topic of collection but refers to no specific poems,
-letter_79,"Dunsany, Edward","Cunard, Nancy",business,1944-03-30,poem_21,,refers to translation,
-letter_80,"Dunsany, Edward","Cunard, Nancy",business,1944-04-27,poem_21,,refers to translation,
-letter_81,"Eliot, T.S.","Cunard, Nancy",business,1943-09-30,,,no poems to contribute,
-letter_82,"Evans, Jacqueline","Cunard, Nancy",business,1943-12-29,poem_23,,,
-letter_82,"Evans, Jacqueline","Cunard, Nancy",business,1943-12-29,,"Evans, D.",,
-letter_83,"Gawsworth, John","Cunard, Nancy",business,1943-12-05,poem_82,,encloses poem not anthologized,
-letter_83,"Gawsworth, John","Cunard, Nancy",business,1943-12-05,poem_83,,encloses poem not anthologized,
-letter_84,"Gawsworth, John","Cunard, Nancy",business,1944-01-09,poem_25,,,
-letter_85,"Gibson, Douglas","Cunard, Nancy",business,1943-11-18,poem_27,,,
-letter_86,"Goldring, Douglas","Cunard, Nancy","personal, business",1943-10-19,,,no poems to contribute,
-letter_86,"Goldring, Douglas","Cunard, Nancy","personal, business",1943-10-19,,"Earp, Tommy",,
-letter_87,"Graves, Robert","Cunard, Nancy","personal, business",194*,,,no poems to contribute,
-letter_88,"Greacen, Robert","Cunard, Nancy",business,1943-12-06,poem_29,,,
-letter_88,"Greacen, Robert","Cunard, Nancy",business,1943-12-06,poem_15,"Comfort, Alex",,
-letter_89,"Greacen, Robert","Cunard, Nancy",business,1944-04-14,poem_29,,refers to translation,
-letter_90,"Greacen, Robert","Cunard, Nancy",business,1944-06-08,poem_29,,refers to translation,
-letter_91,"Greacen, Robert","Cunard, Nancy",business,1944-10-04,poem_15,"Comfort, Alex",,
-letter_91,"Greacen, Robert","Cunard, Nancy",business,1944-10-04,poem_32,"Heppenstall, Raynor",,
-letter_91,"Greacen, Robert","Cunard, Nancy",business,1944-10-04,,Read,not sure if Herbert or Sylvia Read?,
-letter_92,"Grossbard-Brinitzer, Berthe","Cunard, Nancy",business,1944-10-02,,,entire volume,
-letter_93,"Hamilton, Goerge Rostrevor","Cunard, Nancy",business,1943-11-07,poem_30,,,
-letter_93,"Hamilton, Goerge Rostrevor","Cunard, Nancy",business,1943-11-07,,"de la Mare, Walter",,
-letter_94,"Hamilton, Goerge Rostrevor","Cunard, Nancy",business,1943-11-14,poem_30,,,
-letter_94,"Hamilton, Goerge Rostrevor","Cunard, Nancy",business,1943-11-14,,"de la Mare, Walter",,
-letter_95,"Hamilton, Goerge Rostrevor","Cunard, Nancy",business,1944-04-04,poem_30,,refers to translation,
-letter_96,"Hamilton, Goerge Rostrevor","Cunard, Nancy",business,1944-05-07,poem_30,,refers to translation,
-letter_96,"Hamilton, Goerge Rostrevor","Cunard, Nancy",business,1944-05-07,,"Mackworth, Cecily",refers to translation,
-letter_96,"Hamilton, Goerge Rostrevor","Cunard, Nancy",business,1944-05-07,,"Gascoyne, David",refers to translation,
-letter_96,"Hamilton, Goerge Rostrevor","Cunard, Nancy",business,1944-10-01,,,entire volume,
-letter_97,"Hendry, JF","Cunard, Nancy",business,1943-11-22,poem_31,,,
-letter_97,"Hendry, JF","Cunard, Nancy",business,1943-11-22,,,refers to poem not included,
-letter_98,"Heppenstall, Rayner","Cunard, Nancy",business,1943-10-21,poem_32,,,
-letter_99,"Heppenstall, Rayner","Cunard, Nancy",business,1944-10-04,,,entire volume,
-letter_100,"Hutcheson, William","Cunard, Nancy",business,1943-11-08,poem_33,,,
-letter_100,"Hutcheson, William","Cunard, Nancy",business,1943-11-08,,"Palmer, Herbert",,
-letter_101,"Hutcheson, William","Cunard, Nancy",business,1944-04-20,poem_33,,refers to translation,
-letter_102,"Hutton, Edward","Cunard, Nancy",business,1943-11-18,,,no poem to contribute,
-letter_103,"Jackson, Ada","Cunard, Nancy",business,1943-11-21,poem_34,,,
-letter_104,"Kayser, Jacques","Cunard, Nancy",business,1944-03-23,,"Beeching, Jack",,
-letter_104,"Kayser, Jacques","Cunard, Nancy",business,1944-03-23,,,"references poem not included in publication ""Franc-Tireurs"" de Jack Beeching, consultation on translation",
-letter_105,"Kayser, Jacques","Cunard, Nancy",business,1944-03-14,,,"entire volume, consultation on translations",
-letter_106,"Kisch, Madeline","Cunard, Nancy","personal, business",1944-10-29,,,entire volume,
-letter_107,"Lehmann, John","Cunard, Nancy",business,1943-09-18,,,no poem to contribute,
-letter_107,"Lehmann, John","Cunard, Nancy",business,1943-09-18,,"Spender, Stephen",,
-letter_107,"Lehmann, John","Cunard, Nancy",business,1943-09-18,,"MacNiece, Louis",,
-letter_107,"Lehmann, John","Cunard, Nancy",business,1943-09-18,,"Aragon, Louis",*check this,
-letter_108,"Lewis, Eiluned","Cunard, Nancy",business,1943-11-15,poem_35,,,
-letter_109,"Lindsay, Jack","Cunard, Nancy","personal, business",194*,poem_36,,,
-letter_110,"Lochhead, Marion","Cunard, Nancy",business,1943-12-31,poem_37,,,
-letter_110,"Lochhead, Marion","Cunard, Nancy",business,1943-12-31,,"Geddies, Liddell",,
-letter_111,"Lord, Douglas","Cunard, Nancy",business,1943-11-17,poem_38,,,
-letter_111,"Lord, Douglas","Cunard, Nancy",business,1943-11-17,,,"refers to poem not included ""Blitz Lullaby for a French-Scot""",
-letter_112,"Lucas, FL","Cunard, Nancy","personal, business",1943-11-06,poem_39,,,
-letter_113,"Lucas, FL","Cunard, Nancy","personal, business",1943-11-01,poem_39,,,
-letter_114,"MacDiarmid, Hugh","Cunard, Nancy","personal, business",1943-12-05,poem_40,,,
-letter_115,"MacDiarmid, Hugh","Cunard, Nancy","personal, business",1943-03-21,poem_40,,refers to translation,
-letter_115,"MacDiarmid, Hugh","Cunard, Nancy","personal, business",1943-04-25,poem_40,,refers to translation,
-letter_116,"MacDiarmid, Hugh","Cunard, Nancy","personal, business",1944-03-29,poem_40,,refers to translation,
-letter_117,"Mackworth, Cecily","Cunard, Nancy","personal, business",1943-12-10,poem_42,,,
-letter_118,"MacNeice, Louis","Cunard, Nancy",business,1943-10-13,,,no poem to contribute,
-letter_119,"Masefield, John","Cunard, Nancy",business,194*,,,no poem to contribute,
-letter_120,"Matthews, Geoffrey","Cunard, Nancy",business,1944-04-14,poem_44,,refers to translation,
-letter_121,"Matthews, Geoffrey","Cunard, Nancy",business,1943-11-12,poem_44,,,
-letter_122,"Meyerstein, E.H.W.","Cunard, Nancy",business,1943-11-15,poem_45,,,
-letter_122,"Meyerstein, E.H.W.","Cunard, Nancy",business,1943-11-15,,"Palmer, Herbert",,
-letter_123,"Meyerstein, E.H.W.","Cunard, Nancy",business,1943-11-15,poem_45,,,
-letter_124,"Meynell, Francis","Cunard, Nancy",business,1943-11-10,,,no poem to contribute,
-letter_125,"Milne, Ewart","Cunard, Nancy",business,1943-11-01,poem_46,,,
-letter_125,"Milne, Ewart","Cunard, Nancy",business,1943-11-01,poem_47,,,
-letter_125,"Milne, Ewart","Cunard, Nancy",business,1943-11-01,,,refers to poem not included,
-letter_126,"Milne, Ewart","Cunard, Nancy",business,1944-04-10,poem_46,,refers to translation,
-letter_127,"Milne, Ewart","Cunard, Nancy",business,1944-04-02,poem_46,,refers to translation,
-letter_127,"Milne, Ewart","Cunard, Nancy",business,1944-04-02,,"Warner, Sylvia Townsend",,
-letter_128,"Milne, Ewart","Cunard, Nancy",business,1944-03-20,poem_46,,refers to rights for translation,
-letter_129,"Moore, Nicholas","Cunard, Nancy",business,1943-10-16,poem_48,,,
-letter_129,"Moore, Nicholas","Cunard, Nancy",business,1943-10-16,poem_49,,,
-letter_130,"Morgan, Charles","Cunard, Nancy",business,1943-11-04,,,no poem to contribute,
-letter_131,"Moult, Thomas","Cunard, Nancy",business,1943-11-15,poem_50,,,
-letter_131,"Moult, Thomas","Cunard, Nancy",business,1943-11-15,,"Wolfe, Herbert",,
-letter_131,"Moult, Thomas","Cunard, Nancy",business,1943-11-15,,"Chiese, Wilfred R",,
-letter_131,"Moult, Thomas","Cunard, Nancy",business,1943-11-15,,,"encloses poems by other writers, do not survive",
-letter_132,"Manifold, John","Cunard, Nancy",business,1944,poem_43,,refers to translation,
-letter_133,"Manifold, John","Cunard, Nancy",business,1944,poem_43,,refers to translation,
-letter_133,"Manifold, John","Cunard, Nancy",business,1944,,"Beeching, Jack",,
+Ôªøkey,date,fromPerson,toPerson
+1,1943-12-31,38,46
+2,1942-12-24,65,15
+3,,31,15
+4,1943-10-31,70,15
+5,1944-01-04,71,15
+6,,51,15
+7,1943-12-30,51,15
+8,1943-10-28,68,15
+9,1943-11-15,72,15
+10,1943-12-22,21,15
+11,,73,15
+12,1944-01-04,39,15
+13,1943-11-01,23,15
+14,1943-10-12,25,15
+15,1944-01-01,41,15
+16,1943-12-11,22,15
+17,1943-12-22,74,15
+18,1943-11-22,10,15
+19,1943-11-27,111,15
+20,1943-12-02,14,15
+21,1905-04-26,1,15
+22,1905-04-26,1,15
+23,1943-12-16,1,15
+24,1943-12-22,1,15
+25,1963-10-19,15,128
+26,1962-06-15,15,22
+27,1943-11-29,15,75
+28,1944-01-01,75,15
+29,,46,15
+30,1944-05-17,46,15
+31,1944-10-24,46,15
+32,1943-12-26,47,15
+33,1943-10-01,47,15
+34,1944-04-26,47,15
+35,,48,15
+36,,48,15
+37,1944-01-06,76,15
+38,1943-11-04,49,15
+39,1943-11-01,77,15
+40,1943-11-07,53,15
+41,1944-01-05,54,15
+42,1943-10-18,78,15
+43,1943-12-31,5,15
+44,,6,15
+45,1943-10-31,6,15
+46,1944-09-26,129,15
+47,1944-09-29,129,15
+48,1944-05-02,129,15
+49,1943-12-10,80,15
+50,1943-11-11,81,15
+51,1943-10-28,8,15
+52,,82,15
+53,1943-11-14,9,15
+54,1943-11-23,2,15
+55,1944-04-22,2,15
+56,1944-04-05,2,15
+57,1943-10-17,3,15
+58,1943-11-11,4,15
+60,1943-10-09,11,15
+61,1943-10-09,12,15
+62,1943-10-13,12,15
+63,1943-11-13,12,15
+64,1944-10-05,160,15
+65,1944-11-23,83,15
+66,,13,15
+67,,13,15
+68,1943-09-22,13,15
+69,1943-09-27,13,15
+70,1945-12-29,13,15
+72,1943-11-08,84,15
+73,1943-11-08,16,15
+74,1943-10-13,85,15
+75,1943-11-04,86,15
+76,1943-12-06,87,15
+77,1943-12-16,87,15
+78,1944-01-05,87,15
+79,1944-03-30,87,15
+80,1944-04-27,87,15
+81,1943-09-30,88,15
+82,1943-12-29,89,15
+83,1943-12-05,22,15
+84,1944-01-09,22,15
+85,1943-11-18,24,15
+86,1943-10-19,90,15
+87,,91,15
+88,1943-12-06,26,15
+89,1944-04-14,26,15
+90,1944-06-08,26,15
+91,1944-10-04,26,15
+92,1944-10-02,92,15
+93,1943-11-07,93,15
+94,1943-11-14,93,15
+95,1944-04-04,93,15
+96,1944-05-07,93,15
+97,1943-11-22,94,15
+98,1943-10-21,29,15
+99,1944-10-04,29,15
+100,1943-11-08,30,15
+101,1944-04-20,30,15
+102,1943-11-18,95,15
+103,1943-11-21,31,15
+104,1944-03-23,96,15
+105,1944-03-14,96,15
+106,1944-10-29,97,15
+107,1943-09-18,98,15
+108,1943-11-15,32,15
+109,,33,15
+110,1943-12-31,34,15
+111,1943-11-17,35,15
+112,1943-11-06,99,15
+113,1943-11-01,99,15
+114,1943-12-05,37,15
+115,1944-04-25,37,15
+116,1944-03-29,37,15
+117,1943-12-10,38,15
+118,1943-10-13,100,15
+119,,101,15
+120,1944-04-14,40,15
+121,1943-11-12,40,15
+122,1943-11-15,42,15
+123,1943-11-15,42,15
+124,1943-11-10,102,15
+125,1943-11-01,43,15
+126,1944-04-10,43,15
+127,1944-04-02,43,15
+128,1944-03-20,43,15
+129,1943-10-16,44,15
+130,1943-11-04,103,15
+131,1943-11-15,45,15
+132,1943-12-06,39,15
+133,1905-04-27,39,15
