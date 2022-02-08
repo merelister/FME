@@ -1,6 +1,6 @@
 # Poems For France
 
-[PoemsForFrancePrototype](0PoemsForFrancePrototype.xlsx) is the initial dataset, with additional tabs for Gephi nodes and edges.
+[PoemsForFrancePrototype](0PoemsForFrancePrototype.xlsx) is the initial dataset in Excel format, with additional tabs for Gephi nodes and edges.
 
 These tabs have been copied to the following csv files in order to more easily generate the Gephi graph:
 
