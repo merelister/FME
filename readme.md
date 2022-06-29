@@ -14,7 +14,7 @@
 
 # Poems For France
 
-[PoemsForFrancePrototype](0PoemsForFrancePrototype.xlsx) is the initial dataset in Excel format, with additional tabs for Gephi nodes and edges.
+[PoemsForFrancePrototype](poems-for-france/0PoemsForFrancePrototype.xlsx) is the initial dataset in Excel format, with additional tabs for Gephi nodes and edges.
 
 These tabs have been copied to the following csv files in order to more easily generate the Gephi graph:
 
@@ -32,7 +32,7 @@ These tabs have been copied to the following csv files in order to more easily g
 
 ## Graph
 
-[The graph](all-plain-p4f.cypher) can be downloaded and dragged into a Neo4j Browser window to import the database
+[The graph](poems-for-france/all-plain-p4f.cypher) can be downloaded and dragged into a Neo4j Browser window to import the database
 
 - **Persons** are orange
 - **Poems** are red
@@ -40,7 +40,7 @@ These tabs have been copied to the following csv files in order to more easily g
 - **Letters** are beige
 
 ### All Nodes and Edges
-![all.png](all.png)
+![all.png](poems-for-france/all.png)
 
 ## Example Queries
 
@@ -49,7 +49,7 @@ These tabs have been copied to the following csv files in order to more easily g
 MATCH p=(:Person {firstName:' Nancy'})-[]-() RETURN p
 ```
 
-![](Nancy1.png)
+![](poems-for-france/Nancy1.png)
 
 ### Cunard and nodes 2 steps away
 Excludes letters sent or received directly by her. Cunard is the orange node in the top left, and Poems for France is the blue node in the middle, surrounded by red poems.
@@ -58,7 +58,7 @@ Excludes letters sent or received directly by her. Cunard is the orange node in 
 MATCH (p:Person {firstName:' Nancy'})-[]-()-[]-(n) RETURN p,n
 ```
 
-![](Nancy2.png)
+![](poems-for-france/Nancy2.png)
 
 
 ### Notes on querying
